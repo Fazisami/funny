@@ -1,0 +1,2 @@
+# funny
+Working with github
